@@ -6,3 +6,4 @@ idea/
 /bin/
 *.classpath
 *.project
+*.DS_Store
